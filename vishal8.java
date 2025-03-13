@@ -2,7 +2,7 @@ public class vishal8
 {
     public static void main(String[]args)
     {
-        int a=2,b=3,c=6;
+        int a=2,b=3;
         a=a+b;
         b=a-b;
         a=a-b;
